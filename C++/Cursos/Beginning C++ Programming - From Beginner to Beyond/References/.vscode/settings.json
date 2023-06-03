@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "ostream": "cpp",
+        "system_error": "cpp",
+        "xlocale": "cpp"
+    }
+}
